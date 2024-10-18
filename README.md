@@ -1,6 +1,5 @@
 Данный репозиторий является форком репозитория https://gitlab.iaaras.ru/iaaras/gostdown.git
 
-test123
 
 # Назначение
 
